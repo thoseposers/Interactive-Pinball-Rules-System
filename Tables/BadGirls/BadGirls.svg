@@ -743,7 +743,7 @@
        transform="translate(-1.8758139e-7)" /><path
        style="fill:url(#radialGradient36);stroke:#eefd26;stroke-width:0.3263;stroke-opacity:1"
        d="m 66.849989,-25.431689 6.512813,5.452589 c 0,0 1.350678,1.65033 -0.378652,3.635058 -1.941524,2.22826 -3.794131,1.100782 -3.794131,1.100782 l -6.802738,-5.731753 c 0,0 -1.677816,-2.013094 0.543105,-4.19431 1.99182,-1.956209 3.919603,-0.262366 3.919603,-0.262366 z"
-       id="POOLlLetters-TopLeftInsert"
+       id="POOLLetters-TopLeftInsert"
        onclick="LoadFeatureToBottomSheet('POOLLetters');"
        transform="translate(-1.8758139e-7)" /><path
        style="fill:url(#radialGradient38);fill-opacity:1;stroke:#eefd26;stroke-width:0.315809;stroke-opacity:1"
